@@ -561,7 +561,7 @@ footer{
   }
 
   .background-introduction{
-    background-image: url(https://i.pinimg.com/564x/22/c6/fd/22c6fd4465f8af91514e11073bc03346.jpg);
+    background-image: url(https://img.freepik.com/free-photo/close-up-blue-curved-sheets-paper_23-2148319070.jpg?w=826&t=st=1724163661~exp=1724164261~hmac=2ab3dbd29261b1a85637ed3bb4df36f670125d75faa7cf00546e5747f92feef9);
     position: fixed;
     width: 100%;  
     filter: brightness(50%);
@@ -569,7 +569,7 @@ footer{
   }
 
   .background-biography, .background-interest, .background-achievement{
-    background-image: url(https://i.pinimg.com/564x/22/c6/fd/22c6fd4465f8af91514e11073bc03346.jpg);
+    background-image: url(https://img.freepik.com/free-photo/close-up-blue-curved-sheets-paper_23-2148319070.jpg?w=826&t=st=1724163661~exp=1724164261~hmac=2ab3dbd29261b1a85637ed3bb4df36f670125d75faa7cf00546e5747f92feef9);
     width: 100%;  
     filter: brightness(50%);
     background-size: cover;
